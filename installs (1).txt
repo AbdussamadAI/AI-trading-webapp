@@ -1,0 +1,8 @@
+playwright == 1.28.0
+beautifulsoup4
+tiktoken
+nest_asyncio
+
+##########
+playwright install chrome firefox
+##########

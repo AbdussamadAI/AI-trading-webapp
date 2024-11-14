@@ -1,0 +1,11 @@
+#For Ubuntu
+##On main terminal
+conda create --name tradingbot python=3.9
+gedit ~/.bashrc
+##Paste the command "conda activate tradingbot" on the bash
+
+#For Windows or mac
+##On "search for applications menu" open Anaconda Prompt
+conda create --name tradingbot python=3.9
+conda activate tradingbot
+##NOTE: Unlike Ubuntu, there is not a bash for anaconda prompt in windows or mac, so the conda activate command would be needed to be used every time the Anaconda Prompt is used.

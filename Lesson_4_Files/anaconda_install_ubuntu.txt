@@ -1,0 +1,11 @@
+cd /tmp
+curl https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh --output anaconda.sh
+bash anaconda.sh
+
+//Follow Instructions in terminal. Click yes to everything
+
+source ~/.bashrc
+//should now see the (base) label on your name on terminal
+
+//LINK
+https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-20-04-es

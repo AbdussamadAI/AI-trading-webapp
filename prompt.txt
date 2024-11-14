@@ -1,0 +1,666 @@
+You are an expert in making fundamental analysis. You will make fundamental analysis for Apple by using the next information that is shared with you.
+
+Apple net profit margin as of September 30, 2023, is 25.31%.
+Apple Inc.'s sustained competitive advantage can be attributed to its focus on user experience, continuous innovation, integration of hardware, software, and services, branding excellence, ecosystem lock-in, effective supply chain management, strategic partnerships, and long-term vision.
+The price per share in apple till today is of $196.94 USD.
+Apple shareholders equity is of $62.15B USD.
+
+The next data is important, however it is organized in the next way. You are going to be given the income statement, the balance sheet and the cash flow consecutively. Each of this has is own sections, like Total revenue or Operating expenses, etc. The thing here is that I copied and pasted this information from a webpage. You are basicaly going to treat each of these titles and the data that comes with them as matrices, to which you are going to apply a transpose operation in order for you to read them. For example the breakdown for the income statements has the sections ttm, 9/30/2023, 9/30/2022, 9/30/2021 and 9/30/2020 consecutively. The next section which is Total revenue has also some 5 sections which include numbers. Well, each number of those correspond to the past 5 sections of the breakdown. Repeat that way of visualizing data for all the income statments. Once You are done with the Income satement, do the same for the balance sheet and for the cash flow. NOTE: You will see that some data is separated by comas, those comas are not separations, they are just a representation for the number since we are talking about millions of dollars here. For example, the number 383,933,000 is not three different numbers, it is just one number represented by comas each 3 numeric characters. There is no need for you to show me how you transofrm that data, just use it to make the fundamental analysis. Be as extensive as you can since I want a full fundamental analisys, showing all the operations you make and their results.
+Do you undersant your task? Once I give you all the Income Statments, the balance sheet and the cash flow you shall start making the fundamental analysis.
+
+Income Statement
+Breakdown
+ttm
+9/30/2023
+9/30/2022
+9/30/2021
+9/30/2020
+Total Revenue
+383,933,000
+383,285,000
+394,328,000
+365,817,000
+274,515,000
+Operating Revenue
+383,933,000
+383,285,000
+394,328,000
+365,817,000
+274,515,000
+Cost of Revenue
+217,117,000
+214,137,000
+223,546,000
+212,981,000
+169,559,000
+Gross Profit
+166,816,000
+169,148,000
+170,782,000
+152,836,000
+104,956,000
+Operating Expense
+54,590,000
+54,847,000
+51,345,000
+43,887,000
+38,668,000
+Selling General and Administrative
+25,221,000
+24,932,000
+25,094,000
+21,973,000
+19,916,000
+Research & Development
+29,369,000
+29,915,000
+26,251,000
+21,914,000
+18,752,000
+Operating Income
+112,226,000
+114,301,000
+119,437,000
+108,949,000
+66,288,000
+Net Non Operating Interest Income Expense
+-239,000
+-
+-106,000
+198,000
+890,000
+Interest Income Non Operating
+3,519,000
+-
+2,825,000
+2,843,000
+3,763,000
+Interest Expense Non Operating
+3,758,000
+-
+2,931,000
+2,645,000
+2,873,000
+Other Income Expense
+-592,000
+-565,000
+-334,000
+258,000
+803,000
+Other Non Operating Income Expenses
+-592,000
+-565,000
+-334,000
+258,000
+803,000
+Pretax Income
+111,395,000
+113,736,000
+119,103,000
+109,207,000
+67,091,000
+Tax Provision
+16,635,000
+16,741,000
+19,300,000
+14,527,000
+9,680,000
+Net Income Common Stockholders
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Net Income
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Net Income Including Non-Controlling Interests
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Net Income Continuous Operations
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Diluted NI Available to Com Stockholders
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Basic EPS
+5.98
+6.16
+6.15
+5.67
+3.31
+Diluted EPS
+5.96
+6.13
+6.11
+5.61
+3.28
+Basic Average Shares
+15,851,968
+15,744,231
+16,215,963
+16,701,272
+17,352,119
+Diluted Average Shares
+15,924,064
+15,812,547
+16,325,819
+16,864,919
+17,528,214
+Total Operating Income as Reported
+112,226,000
+114,301,000
+119,437,000
+108,949,000
+66,288,000
+Total Expenses
+271,707,000
+268,984,000
+274,891,000
+256,868,000
+208,227,000
+Net Income from Continuing & Discontinued Operation
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Normalized Income
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Interest Income
+3,519,000
+-
+2,825,000
+2,843,000
+3,763,000
+Interest Expense
+3,758,000
+-
+2,931,000
+2,645,000
+2,873,000
+Net Interest Income
+-239,000
+-
+-106,000
+198,000
+890,000
+EBIT
+115,153,000
+114,301,000
+119,437,000
+108,949,000
+66,288,000
+EBITDA
+126,884,000
+125,820,000
+130,541,000
+120,233,000
+77,344,000
+Reconciled Cost of Revenue
+217,117,000
+214,137,000
+223,546,000
+212,981,000
+169,559,000
+Reconciled Depreciation
+11,731,000
+11,519,000
+11,104,000
+11,284,000
+11,056,000
+Net Income from Continuing Operation Net Minority Interest
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Normalized EBITDA
+126,884,000
+125,820,000
+130,541,000
+120,233,000
+77,344,000
+Tax Rate for Calcs
+0
+0
+0
+0
+0
+Tax Effect of Unusual Items
+0
+0
+0
+0
+0
+
+Balance Sheet
+Breakdown
+9/30/2023
+9/30/2022
+9/30/2021
+9/30/2020
+Total Assets
+352,583,000
+352,755,000
+351,002,000
+323,888,000
+Total Liabilities Net Minority Interest
+290,437,000
+302,083,000
+287,912,000
+258,549,000
+Total Equity Gross Minority Interest
+62,146,000
+50,672,000
+63,090,000
+65,339,000
+Total Capitalization
+157,427,000
+149,631,000
+172,196,000
+164,006,000
+Common Stock Equity
+62,146,000
+50,672,000
+63,090,000
+65,339,000
+Net Tangible Assets
+62,146,000
+50,672,000
+63,090,000
+65,339,000
+Working Capital
+-1,742,000
+-18,577,000
+9,355,000
+38,321,000
+Invested Capital
+173,234,000
+170,741,000
+187,809,000
+177,775,000
+Tangible Book Value
+62,146,000
+50,672,000
+63,090,000
+65,339,000
+Total Debt
+111,088,000
+120,069,000
+124,719,000
+112,436,000
+Net Debt
+81,123,000
+96,423,000
+89,779,000
+74,420,000
+Share Issued
+15,550,061
+15,943,425
+16,426,786
+16,976,763
+Ordinary Shares Number
+15,550,061
+15,943,425
+16,426,786
+16,976,763
+Treasury Shares Number
+0
+-
+-
+-
+
+Cash Flow
+Breakdown
+ttm
+9/30/2023
+9/30/2022
+9/30/2021
+9/30/2020
+Operating Cash Flow
+113,072,000
+110,543,000
+122,151,000
+104,038,000
+80,674,000
+Cash Flow from Continuing Operating Activities
+113,072,000
+110,543,000
+122,151,000
+104,038,000
+80,674,000
+Net Income from Continuing Operations
+94,760,000
+96,995,000
+99,803,000
+94,680,000
+57,411,000
+Depreciation Amortization Depletion
+11,731,000
+11,519,000
+11,104,000
+11,284,000
+11,056,000
+Depreciation & amortization
+11,731,000
+11,519,000
+11,104,000
+11,284,000
+11,056,000
+Deferred Tax
+-
+-
+895,000
+-4,774,000
+-215,000
+Deferred Income Tax
+-
+-
+895,000
+-4,774,000
+-215,000
+Stock based compensation
+10,486,000
+10,833,000
+9,038,000
+7,906,000
+6,829,000
+Other non-cash items
+-4,235,000
+-2,227,000
+111,000
+-147,000
+-97,000
+Change in working capital
+-565,000
+-6,577,000
+1,200,000
+-4,911,000
+5,690,000
+Change in Receivables
+2,027,000
+-417,000
+-9,343,000
+-14,028,000
+8,470,000
+Changes in Account Receivables
+1,225,000
+-1,688,000
+-1,823,000
+-10,125,000
+6,917,000
+Change in Inventory
+-2,135,000
+-1,618,000
+1,484,000
+-2,642,000
+-127,000
+Change in Payables And Accrued Expense
+-1,234,000
+-1,889,000
+9,448,000
+12,326,000
+-4,062,000
+Change in Payable
+-1,234,000
+-1,889,000
+9,448,000
+12,326,000
+-4,062,000
+Change in Account Payable
+-1,234,000
+-1,889,000
+9,448,000
+12,326,000
+-4,062,000
+Change in Other Current Assets
+-8,073,000
+-5,684,000
+-6,499,000
+-8,042,000
+-9,588,000
+Change in Other Current Liabilities
+8,372,000
+3,031,000
+5,632,000
+5,799,000
+8,916,000
+Change in Other Working Capital
+-
+-
+478,000
+1,676,000
+2,081,000
+Investing Cash Flow
+94,000
+3,705,000
+-22,354,000
+-14,545,000
+-4,289,000
+Cash Flow from Continuing Investing Activities
+94,000
+3,705,000
+-22,354,000
+-14,545,000
+-4,289,000
+Net PPE Purchase And Sale
+-12,085,000
+-10,959,000
+-10,708,000
+-11,085,000
+-7,309,000
+Purchase of PPE
+-12,085,000
+-10,959,000
+-10,708,000
+-11,085,000
+-7,309,000
+Net Business Purchase And Sale
+-
+-
+-306,000
+-33,000
+-1,524,000
+Purchase of Business
+-
+-
+-306,000
+-33,000
+-1,524,000
+Net Investment Purchase And Sale
+13,666,000
+16,001,000
+-9,560,000
+-3,075,000
+5,335,000
+Purchase of Investment
+-27,701,000
+-29,513,000
+-76,923,000
+-109,558,000
+-115,148,000
+Sale of Investment
+41,367,000
+45,514,000
+67,363,000
+106,483,000
+120,483,000
+Net Other Investing Changes
+-1,181,000
+-1,337,000
+-1,780,000
+-352,000
+-791,000
+Financing Cash Flow
+-112,129,000
+-108,488,000
+-110,749,000
+-93,353,000
+-86,820,000
+Cash Flow from Continuing Financing Activities
+-112,129,000
+-108,488,000
+-110,749,000
+-93,353,000
+-86,820,000
+Net Issuance Payments of Debt
+-10,237,000
+-9,901,000
+-123,000
+12,665,000
+2,499,000
+Net Long Term Debt Issuance
+-3,251,000
+-5,923,000
+-4,078,000
+11,643,000
+3,462,000
+Long Term Debt Issuance
+10,693,000
+5,228,000
+5,465,000
+20,393,000
+16,091,000
+Long Term Debt Payments
+-13,944,000
+-11,151,000
+-9,543,000
+-8,750,000
+-12,629,000
+Net Short Term Debt Issuance
+-6,986,000
+-3,978,000
+3,955,000
+1,022,000
+-963,000
+Short Term Debt Issuance
+-
+-
+3,955,000
+-
+-
+Short Term Debt Payments
+-
+-
+-
+-
+-963,000
+Net Common Stock Issuance
+-80,975,000
+-77,550,000
+-89,402,000
+-84,866,000
+-71,478,000
+Common Stock Issuance
+-
+-
+-
+1,105,000
+880,000
+Common Stock Payments
+-80,975,000
+-77,550,000
+-89,402,000
+-85,971,000
+-72,358,000
+Cash Dividends Paid
+-14,970,000
+-15,025,000
+-14,841,000
+-14,467,000
+-14,081,000
+Common Stock Dividend Paid
+-15,025,000
+-15,025,000
+-14,841,000
+-14,467,000
+-14,081,000
+Net Other Financing Charges
+-5,947,000
+-6,012,000
+-6,383,000
+-6,685,000
+-3,760,000
+End Cash Position
+29,898,000
+30,737,000
+24,977,000
+35,929,000
+39,789,000
+Changes in Cash
+1,037,000
+5,760,000
+-10,952,000
+-3,860,000
+-10,435,000
+Beginning Cash Position
+28,861,000
+24,977,000
+35,929,000
+39,789,000
+50,224,000
+Income Tax Paid Supplemental Data
+14,342,000
+18,679,000
+19,573,000
+25,385,000
+9,501,000
+Interest Paid Supplemental Data
+3,545,000
+3,803,000
+2,865,000
+2,687,000
+3,002,000
+Capital Expenditure
+-12,085,000
+-10,959,000
+-10,708,000
+-11,085,000
+-7,309,000
+Issuance of Capital Stock
+-
+-
+-
+1,105,000
+880,000
+Issuance of Debt
+10,693,000
+5,228,000
+9,420,000
+20,393,000
+16,091,000
+Repayment of Debt
+-13,944,000
+-11,151,000
+-9,543,000
+-8,750,000
+-13,592,000
+Repurchase of Capital Stock
+-80,975,000
+-77,550,000
+-89,402,000
+-85,971,000
+-72,358,000
+Free Cash Flow
+100,987,000
+99,584,000
+111,443,000
+92,953,000
+73,365,000
